@@ -7,7 +7,7 @@ class Notes {
 		//Create the scanner
 		// Scanner in = new Scanner(System.in);
 
-		// // in.nextInt(); //Integer
+		// in.nextInt(); //Integer
 		// // in.nextDoiuble(); //Doubles
 		// // in.nextBoolean(); //Booleans
 		// // in.nextLine(); //Strings
